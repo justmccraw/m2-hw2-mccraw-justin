@@ -1,0 +1,7 @@
+body {
+  background-color: aqua;
+  color: navy;
+  text-decoration: none;
+  flex-wrap: wrap;
+  display: flex;
+}
